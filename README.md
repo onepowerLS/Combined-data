@@ -6,7 +6,7 @@ This is the script that combines data of the given excel files into one master f
 
 2. Put all the excel files from which you want to copy data in the inner folder
 
-3. In the same level as the python script and the inner folder, put the first output (excel) file with "uGrid" in its name,
+3. At the same level as the python script and the inner folder, put the first output (excel) file with "uGrid" in its name,
 eg RIB_01_Lebona_uGrid_20220411.xlsx, uGridPlan1.xlsx, etc
 
 4. Run the script and put the name of the inner folder as the first argument
